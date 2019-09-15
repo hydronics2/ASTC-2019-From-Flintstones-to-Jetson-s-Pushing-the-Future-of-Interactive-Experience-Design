@@ -3,13 +3,13 @@
 
 I'll add contact information and link to Slides
 
-Session Moderator:
+### Session Moderator:
 
 David Laubenthal, Director of Creative Services, Oregon Museum of Science and Industry
 Session Leader:
 Thomas Hudson, Senior Electronics Developer, Oregon Museum of Science and Industry
 
-Presenters:
+### Presenters:
 
 Aaron Heidgerken-greene, Instrument Project Manager, Department of Physics and Astronomy, Carleton College,
 
