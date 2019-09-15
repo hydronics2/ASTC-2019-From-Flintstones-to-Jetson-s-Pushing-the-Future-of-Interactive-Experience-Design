@@ -9,6 +9,7 @@ I'll add contact information and link to Slides
 ### Session Moderator:
 
 David Laubenthal, Director of Creative Services, Oregon Museum of Science and Industry
+
 Session Leader:
 Thomas Hudson, Senior Electronics Developer, Oregon Museum of Science and Industry
 
