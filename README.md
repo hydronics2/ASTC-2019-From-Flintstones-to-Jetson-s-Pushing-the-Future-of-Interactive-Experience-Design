@@ -10,10 +10,8 @@ I'll add contact information and link to Slides
 
 David Laubenthal, Director of Creative Services, Oregon Museum of Science and Industry
 
-Session Leader:
-Thomas Hudson, Senior Electronics Developer, Oregon Museum of Science and Industry
-
 ### Presenters:
+Thomas Hudson, Senior Electronics Developer, Oregon Museum of Science and Industry
 
 Aaron Heidgerken-greene, Instrument Project Manager, Department of Physics and Astronomy, Carleton College,
 
