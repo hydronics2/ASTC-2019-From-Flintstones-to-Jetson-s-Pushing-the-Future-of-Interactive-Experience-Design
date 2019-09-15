@@ -1,5 +1,5 @@
 # ASTC-2019-From-Flintstones-to-Jetson-s-Pushing-the-Future-of-Interactive-Experience-Design
-
+Monday, September 23rd 2:30-3:45
 
 I'll add contact information and link to Slides
 
@@ -17,6 +17,5 @@ Thodore Watson, Co-Founder Design I/O, Co-Founder openFrameworks, Design I/O and
 
 Jake Rudder, Sr. Multimedia Specialist, Connecticut Science Center
 
-Monday, September 23rd 2:30-3:45
 
 
