@@ -10,7 +10,9 @@ Thomas Hudson, Senior Electronics Developer, Oregon Museum of Science and Indust
 
 Presenters:
 Aaron Heidgerken-greene, Instrument Project Manager, Department of Physics and Astronomy, Carleton College,
+
 Thodore Watson, Co-Founder Design I/O, Co-Founder openFrameworks, Design I/O and 
+
 Jake Rudder, Sr. Multimedia Specialist, Connecticut Science Center
 
 Monday, September 23rd 2:30-3:45
