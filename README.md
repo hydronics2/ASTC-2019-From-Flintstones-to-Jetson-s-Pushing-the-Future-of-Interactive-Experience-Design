@@ -1,5 +1,8 @@
-# ASTC-2019-From-Flintstones-to-Jetson-s-Pushing-the-Future-of-Interactive-Experience-Design
-Monday, September 23rd 2:30-3:45
+# From Flintstones to Jetsons: Pushing the Future of Interactive Experience Design
+2019 ASTC Annual Conference in Toronto, hosted by the Ontario Science Centre, September 21–24
+
+Monday, September 23, 2019: 2:30 PM - 3:45 PM, Metro Toronto Convention Centre, Meeting Room 718a
+
 
 I'll add contact information and link to Slides
 
